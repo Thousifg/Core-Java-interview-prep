@@ -28,8 +28,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-### ignoring directories
 .idea/
-
-### ignoring the files
 training.iml
