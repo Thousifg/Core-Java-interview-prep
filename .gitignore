@@ -29,7 +29,7 @@ bin/
 .DS_Store
 
 ### ignoring directories
-/.idea
+.idea/
 
 ### ignoring the files
-.training.iml
+training.iml
